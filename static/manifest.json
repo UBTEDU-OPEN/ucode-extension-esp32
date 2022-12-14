@@ -1,0 +1,12 @@
+{
+  "id": "3792749d-c42b-4cfb-b21e-6b64ae6cc8b1",
+  "version": "0.0.1",
+  "type": "device",
+  "name": "esp32",
+  "supportModes": ["online"],
+  "description": "ESP32 DEVKITV1 MicroPython版本",
+  "icon": "logo.svg",
+  "author": "优必选科技",
+  "readme": "",
+  "USV": "0.3.0"
+}
